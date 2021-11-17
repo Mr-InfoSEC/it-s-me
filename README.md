@@ -2,7 +2,7 @@
 <h1>Hi there, I'm <a href="https://www.linkedin.com/in/pranab-kumar-mahanta">Pranab Kumar Mahanta </a>👋</h1>
 
 
-- 👋 Hi, I’m @Pranab
+- 👋 Hi, I’m @Pranab-mark42
 - 👀 A CyberSecurity enthusiast
 - 🌱 I’m currently finalist for India skill 2021 in skill Cyber Security 
 - 📫 How to reach me - pranab.kumar.4444@gmail.com
